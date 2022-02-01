@@ -1,4 +1,6 @@
 # Stock-Analysis
+The purpose of the project is to refactor a Microsoft Excel VBA code.
+
 ## Overview of Project ##
 The purpose of the project is to refactor a Microsoft Excel VBA code. The code represents stocks, and refactoring it would create a more efficient and faster analysis of the results. The years in question are 2017 and 2018. In the intial run of the code it came back with the below run times. The new code is supposed to result faster then the listed times.
 
